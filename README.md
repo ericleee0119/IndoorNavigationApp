@@ -20,3 +20,6 @@ Including but not limited to...
 6. Waypoints and Edges construct a region. There are also edges to connect regions, however, the edge between regions can be cross through by walk, stairs, elevator, escalator  
 7. Multiple regions construct a graph, which is our completed map.  
 ![image](https://github.com/ericleee0119/IndoorNavigationApp/blob/main/image/Region_Waypoint_Edge_Indicate.PNG)
+
+The information of the map is built by a XML, we can scan the QR Code to download the map or download the map hat is originally saved in the APP.
+Map Information Demo: https://drive.google.com/drive/my-drive
