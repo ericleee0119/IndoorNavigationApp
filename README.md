@@ -29,6 +29,6 @@ The information of the map is built by a XML, we can scan the QR Code to downloa
 Map Information : https://drive.google.com/file/d/18xb-wp_4B2g-8sHBQdGHhvgpMtuuD5yH/view?usp=sharing  
 
 Demo Video:  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=mJOQX05UZIs/0.jpg)](https://www.youtube.com/watch?v=mJOQX05UZIs)
+[![IMAGE ALT TEXT HERE](https://github.com/ericleee0119/IndoorNavigationApp/blob/main/image/yt1.PNG)](https://www.youtube.com/watch?v=mJOQX05UZIs)
 
 
