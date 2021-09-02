@@ -22,4 +22,4 @@ Including but not limited to...
 ![image](https://github.com/ericleee0119/IndoorNavigationApp/blob/main/image/Region_Waypoint_Edge_Indicate.PNG)
 
 The information of the map is built by a XML, we can scan the QR Code to download the map or download the map hat is originally saved in the APP.
-Map Information Demo: https://drive.google.com/drive/my-drive
+Map Information Demo: https://drive.google.com/file/d/18xb-wp_4B2g-8sHBQdGHhvgpMtuuD5yH/view?usp=sharing
