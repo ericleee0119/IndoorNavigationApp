@@ -28,7 +28,10 @@ Including but not limited to...
 The information of the map is built by a XML, we can scan the QR Code to download the map or download the map hat is originally saved in the APP.  
 Map Information : https://drive.google.com/file/d/18xb-wp_4B2g-8sHBQdGHhvgpMtuuD5yH/view?usp=sharing  
 
-Demo Video:  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mJOQX05UZIs/0.jpg)](https://www.youtube.com/watch?v=mJOQX05UZIs)
+Demo Video 1:  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qe4cUeBnEqk/0.jpg)](https://www.youtube.com/watch?v=qe4cUeBnEqk)  
+
+Demo Video 2:  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mJOQX05UZIs/0.jpg)](https://www.youtube.com/watch?v=mJOQX05UZIs)  
 
 
