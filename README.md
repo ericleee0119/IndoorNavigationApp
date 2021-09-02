@@ -16,5 +16,6 @@ Including but not limited to...
 3. We use 2 kinds of beacons to indicate locations, iBeacon, and LBeacon. LBeacon is the patent of our lab. Our app can support different kinds of beacons  
 4. For each important location, corner, destination..., we use a virtual point, Waypoint, to indicate it. Waypoint is based on beacon(s), if the waypoint's range is too big we use multiple beacons to indicate a waypoint.  
 5. We use edges to connect Waypoints, which can help direct the user to go from one waypoint to another, and approaching the destination. The edge between Waypoints can only be cross through by walk  
+![image](https://github.com/ericleee0119/IndoorNavigationApp/blob/main/image/Beacon_Waypoint_Edge_Indicate.PNG)
 6. Waypoints and Edges construct a region. There are also edges to connect regions, however, the edge between regions can be cross through by walk, stairs, elevator, escalator  
 7. Multiple regions construct a graph, which is our completed map.  
